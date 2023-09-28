@@ -4,7 +4,7 @@ const dbConnect = () => {
   mongoose
 
     .connect(
-      "mongodb+srv://saifullah:####@cluster0.emayfwj.mongodb.net/bookstore",
+      "enterurihere"
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
